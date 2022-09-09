@@ -1,5 +1,5 @@
-# MY FIRST LOGIN SCREEN.
->### A SIMPLE LOGIN SCREEN TO EXERCISE SOME SKILLS.
+# LOGIN AND REGISTRATION SCREEN .
+>### A SIMPLE LOGIN SCREEN TO EXERCISE SOME SKILLS LIKE RESPONSIVINESS.
 
 >the site was created just to develop some skills, I didn't intend for >it to have features, it's just aesthetic, possibly in the future i will >put authentication, among other features
 
