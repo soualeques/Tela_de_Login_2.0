@@ -11,12 +11,12 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: rgb(1, 250, 13);
+    background: rgb(1, 221, 250);
     transition: 0.5s;
 }
 body.active
 {
-    background: rgb(255, 3, 3);
+    background: rgb(252, 2, 210);
 }
 .container
 {
@@ -140,6 +140,11 @@ body.active
     border: none;
     color: #fff;
     max-width: 100px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 20px;
 }
 .formBox .form form .forgot 
 {
